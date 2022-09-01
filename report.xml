@@ -1,0 +1,18 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="" tests="7" errors="0" failures="0" skipped="0" timestamp="2022-08-31T20:51:28" time="2.901">
+    <testcase classname="" name="Perp Param" time="0.439">
+    </testcase>
+    <testcase classname="" name="Prep Trader Position" time="0.411">
+    </testcase>
+    <testcase classname="" name="Prep Funding Rates" time="0.407">
+    </testcase>
+    <testcase classname="" name="Pricefeed Params" time="0.414">
+    </testcase>
+    <testcase classname="" name="Pricefeed Prices Unusd" time="0.417">
+    </testcase>
+    <testcase classname="" name="Pricefeed Prices" time="0.407">
+    </testcase>
+    <testcase classname="" name="Pricefeed Rawprices Unusd" time="0.399">
+    </testcase>
+  </testsuite>
+</testsuites>
